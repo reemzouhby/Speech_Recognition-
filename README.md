@@ -304,7 +304,7 @@ class_label = np.argmax(prediction)
 -Sourour Hammoud 
 ## Some screnshoots of our App 
  ![Image](app.png)
-
+ ![Image](app2.png)
 ## 🙏 Acknowledgments
 
 - TensorFlow/Keras for the deep learning framework
