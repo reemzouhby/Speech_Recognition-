@@ -303,7 +303,7 @@ class_label = np.argmax(prediction)
 
 -Sourour Hammoud 
 ## Some screnshoots of our App 
- ![Image](screenshots/app.png)
+ ![Image](app.png)
 
 ## 🙏 Acknowledgments
 
