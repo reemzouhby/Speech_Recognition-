@@ -296,14 +296,12 @@ class_label = np.argmax(prediction)
 - [ ] Confidence calibration
 - [ ] User accuracy metrics/analytics
 
-## 📄 License
-
-This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-Reem AL-Zouhby 
-Sourour Hammoud 
+-Reem AL-Zouhby 
+
+-Sourour Hammoud 
 
 ## 🙏 Acknowledgments
 
