@@ -94,7 +94,7 @@ Generates 4 versions of each audio sample:
 Convert augmented audio to mel-spectrograms:
 
 ```bash
-python generate_spectrograms.py
+python Spectrogram.py
 ```
 
 **Output**: `spectrograms/` directory with PNG images (128×128 pixels)
