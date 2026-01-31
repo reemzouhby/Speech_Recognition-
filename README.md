@@ -20,10 +20,9 @@ A machine learning project that recognizes spoken voice commands using deep lear
 
 ```
 ├── record_audio.py           # Data collection script
-├── augment_dataset.py        # Audio augmentation pipeline
-├── generate_spectrograms.py  # Spectrogram generation
+├── Augmentation.py        # Audio augmentation pipeline
 ├── speech_model1.h5          # Trained Keras model
-├── app.py                    # Streamlit web application
+├── streamlit.py                    # Streamlit web application
 ├── dataset/                  # Original audio recordings
 ├── augmented_dataset/        # Augmented audio files
 └── spectrograms/             # Generated mel-spectrograms
@@ -79,7 +78,7 @@ This script will:
 Expand your training data with augmentation:
 
 ```bash
-python augment_dataset.py
+python Augmentation.py
 ```
 
 Generates 4 versions of each audio sample:
