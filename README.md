@@ -302,6 +302,8 @@ class_label = np.argmax(prediction)
 -Reem AL-Zouhby 
 
 -Sourour Hammoud 
+## Some screnshoots of our App 
+ ![Image](screenshots/app.png)
 
 ## 🙏 Acknowledgments
 
