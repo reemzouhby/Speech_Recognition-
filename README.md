@@ -94,7 +94,7 @@ Generates 4 versions of each audio sample:
 Convert augmented audio to mel-spectrograms:
 
 ```bash
-python Spectrogram.py
+python generate_spectrograms.py
 ```
 
 **Output**: `spectrograms/` directory with PNG images (128×128 pixels)
@@ -302,9 +302,7 @@ class_label = np.argmax(prediction)
 -Reem AL-Zouhby 
 
 -Sourour Hammoud 
-## Some screnshoots of our App 
- ![Image](app.png)
- ![Image](app2.png)
+
 ## 🙏 Acknowledgments
 
 - TensorFlow/Keras for the deep learning framework
